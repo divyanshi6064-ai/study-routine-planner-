@@ -1,6 +1,6 @@
 Project Title:
 
-                       Smart Daily Routine Optimizer
+                  Smart Daily Routine Optimizer
 
 
 Motivation:
@@ -63,9 +63,13 @@ How to Use:
 Contact Information:
 
 Name: Divyanshi Mishra  
+
 Register Number: 25BCE11266
+
 Email: divyanshi.6064@gmail.com 
+
 Contact No. : 8756158876
+
 University: Vellore Institute of Technology  
 
 
